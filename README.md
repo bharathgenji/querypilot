@@ -23,8 +23,8 @@ Uses Pinecone to store and retrieve schema embeddings for better query understan
 Modular components for seamless extensibility and integration with other systems.
 
 ## Technologies Used
-Django: Backend framework for API development.
-PostgreSQL: Database for schema and data storage.
-Pinecone: Vector database for schema embeddings.
-Defog SQLCoder: Pre-trained language model for SQL generation.
+* Django: Backend framework for API development.
+* PostgreSQL: Database for schema and data storage.
+* Pinecone: Vector database for schema embeddings.
+* Defog SQLCoder: Pre-trained language model for SQL generation.
 
