@@ -102,8 +102,6 @@ DATABASES = {
     }
 }
 
-# Pinecone API key
-PINECONE_API_KEY = '3a80654c-ab12-4334-9774-f06b63dbce84'
 
 # QueryPilot/settings.py
 LOGGING = {
